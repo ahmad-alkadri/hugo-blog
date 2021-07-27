@@ -1,5 +1,6 @@
 +++
 title = "Finally Deployed"
+description = "After toiling for hours!"
 date = 2021-07-27
 author = "Ahmad Alkadri"
 +++
